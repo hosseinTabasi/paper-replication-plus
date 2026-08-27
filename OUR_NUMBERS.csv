@@ -1,0 +1,2 @@
+label,source,model,k,setup,seed,accuracy,macro_f1,note,backend
+TOY,synthetic_smoke,mlp_flatten_not_deeplob,1,paper_setup2_on_toy_days,0,0.544974,NA_not_computed,TOY 1-epoch MLP; NOT a DeepLOB FI-2010 replication,torch_mlp_toy
